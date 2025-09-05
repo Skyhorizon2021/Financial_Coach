@@ -1,0 +1,100 @@
+Date,Description,Amount,Category,Type,Merchant
+1/1/2024,Salary Deposit,4500,income,income,Company Inc
+1/2/2024,Grocery Shopping,-125.43,food,expense,Whole Foods
+1/3/2024,Starbucks Coffee,-4.85,food,expense,Starbucks
+1/5/2024,Netflix Subscription,-15.99,subscription,expense,Netflix
+1/6/2024,Gas Station,-45.2,transportation,expense,Shell
+1/7/2024,Amazon Purchase,-89.99,shopping,expense,Amazon
+1/8/2024,Gym Membership,-39.99,subscription,expense,Planet Fitness
+1/10/2024,Restaurant Dinner,-67.8,food,expense,Olive Garden
+1/12/2024,Spotify Premium,-9.99,subscription,expense,Spotify
+1/14/2024,Electric Bill,-142.5,utilities,expense,PG&E
+1/15/2024,Starbucks Coffee,-5.25,food,expense,Starbucks
+1/16/2024,Target Shopping,-156.78,shopping,expense,Target
+1/18/2024,Uber Ride,-18.45,transportation,expense,Uber
+1/20/2024,Movie Tickets,-28.5,entertainment,expense,AMC Theaters
+1/22/2024,Adobe Creative Cloud,-52.99,subscription,expense,Adobe
+1/23/2024,Grocery Shopping,-98.67,food,expense,Safeway
+1/25/2024,Coffee Shop,-6.75,food,expense,Local Cafe
+1/27/2024,Internet Bill,-79.99,utilities,expense,Comcast
+1/28/2024,Gas Station,-52.3,transportation,expense,Chevron
+1/30/2024,Restaurant Lunch,-23.45,food,expense,Chipotle
+2/1/2024,Salary Deposit,4500,income,income,Company Inc
+2/2/2024,Phone Bill,-85,utilities,expense,Verizon
+2/3/2024,Grocery Shopping,-134.22,food,expense,Whole Foods
+2/5/2024,Netflix Subscription,-15.99,subscription,expense,Netflix
+2/6/2024,Starbucks Coffee,-4.95,food,expense,Starbucks
+2/8/2024,Gym Membership,-39.99,subscription,expense,Planet Fitness
+2/10/2024,Amazon Purchase,-67.45,shopping,expense,Amazon
+2/12/2024,Spotify Premium,-9.99,subscription,expense,Spotify
+2/14/2024,Valentine's Dinner,-145.6,food,expense,Fine Dining
+2/15/2024,Gas Station,-48.75,transportation,expense,Shell
+2/16/2024,Coffee Shop,-5.5,food,expense,Starbucks
+2/18/2024,Clothing Purchase,-89.99,shopping,expense,H&M
+2/20/2024,Electric Bill,-156.8,utilities,expense,PG&E
+2/22/2024,Adobe Creative Cloud,-52.99,subscription,expense,Adobe
+2/24/2024,Grocery Shopping,-112.34,food,expense,Safeway
+2/25/2024,Freelance Payment,1200,income,income,Client ABC
+2/26/2024,Coffee Shop,-7.25,food,expense,Local Cafe
+2/27/2024,Internet Bill,-79.99,utilities,expense,Comcast
+2/28/2024,Restaurant Dinner,-45.8,food,expense,Italian Place
+3/1/2024,Salary Deposit,4500,income,income,Company Inc
+3/2/2024,Grocery Shopping,-118.9,food,expense,Whole Foods
+3/3/2024,Microsoft 365,-12.99,subscription,expense,Microsoft
+3/5/2024,Netflix Subscription,-15.99,subscription,expense,Netflix
+3/6/2024,Starbucks Coffee,-5.15,food,expense,Starbucks
+3/8/2024,Gym Membership,-39.99,subscription,expense,Planet Fitness
+3/10/2024,Home Depot,-234.56,shopping,expense,Home Depot
+3/12/2024,Spotify Premium,-9.99,subscription,expense,Spotify
+3/14/2024,Gas Station,-51.2,transportation,expense,Chevron
+3/15/2024,Coffee Shop,-6,food,expense,Starbucks
+3/16/2024,Pharmacy,-28.45,healthcare,expense,CVS
+3/18/2024,Restaurant Lunch,-19.75,food,expense,Subway
+3/20/2024,Electric Bill,-138.25,utilities,expense,PG&E
+3/22/2024,Adobe Creative Cloud,-52.99,subscription,expense,Adobe
+3/24/2024,Grocery Shopping,-145.67,food,expense,Safeway
+3/25/2024,Amazon Prime,-14.99,subscription,expense,Amazon
+3/26/2024,Coffee Shop,-5.85,food,expense,Local Cafe
+3/27/2024,Internet Bill,-79.99,utilities,expense,Comcast
+3/28/2024,Uber Ride,-22.3,transportation,expense,Uber
+3/30/2024,Restaurant Dinner,-78.9,food,expense,Sushi Place
+4/1/2024,Salary Deposit,4500,income,income,Company Inc
+4/2/2024,Grocery Shopping,-129.45,food,expense,Whole Foods
+4/3/2024,Starbucks Coffee,-4.75,food,expense,Starbucks
+4/5/2024,Netflix Subscription,-15.99,subscription,expense,Netflix
+4/6/2024,Investment Dividend,150,income,income,Brokerage
+4/8/2024,Gym Membership,-39.99,subscription,expense,Planet Fitness
+4/10/2024,Best Buy Electronics,-299.99,shopping,expense,Best Buy
+4/12/2024,Spotify Premium,-9.99,subscription,expense,Spotify
+4/14/2024,Gas Station,-46.85,transportation,expense,Shell
+4/15/2024,Coffee Shop,-6.5,food,expense,Starbucks
+4/16/2024,Doctor Visit,-175,healthcare,expense,Medical Center
+4/18/2024,Restaurant Lunch,-31.25,food,expense,Panera
+4/20/2024,Electric Bill,-162.4,utilities,expense,PG&E
+4/22/2024,Adobe Creative Cloud,-52.99,subscription,expense,Adobe
+4/24/2024,Grocery Shopping,-134.89,food,expense,Safeway
+4/25/2024,Amazon Prime,-14.99,subscription,expense,Amazon
+4/26/2024,Coffee Shop,-7.15,food,expense,Local Cafe
+4/27/2024,Internet Bill,-79.99,utilities,expense,Comcast
+4/28/2024,Entertainment,-45.5,entertainment,expense,Concert Venue
+4/30/2024,Restaurant Dinner,-92.35,food,expense,Steakhouse
+5/1/2024,Salary Deposit,4500,income,income,Company Inc
+5/2/2024,Grocery Shopping,-142.33,food,expense,Whole Foods
+5/3/2024,Starbucks Coffee,-5.25,food,expense,Starbucks
+5/5/2024,Netflix Subscription,-15.99,subscription,expense,Netflix
+5/6/2024,Side Hustle Payment,800,income,income,Freelance Client
+5/8/2024,Gym Membership,-39.99,subscription,expense,Planet Fitness
+5/10/2024,Amazon Purchase,-78.9,shopping,expense,Amazon
+5/12/2024,Spotify Premium,-9.99,subscription,expense,Spotify
+5/14/2024,Gas Station,-49.6,transportation,expense,Chevron
+5/15/2024,Coffee Shop,-5.95,food,expense,Starbucks
+5/16/2024,Costco Shopping,-234.67,shopping,expense,Costco
+5/18/2024,Restaurant Lunch,-28.75,food,expense,Mexican Place
+5/20/2024,Electric Bill,-148.9,utilities,expense,PG&E
+5/22/2024,Adobe Creative Cloud,-52.99,subscription,expense,Adobe
+5/24/2024,Grocery Shopping,-156.23,food,expense,Safeway
+5/25/2024,Amazon Prime,-14.99,subscription,expense,Amazon
+5/26/2024,Coffee Shop,-6.85,food,expense,Local Cafe
+5/27/2024,Internet Bill,-79.99,utilities,expense,Comcast
+5/28/2024,Vacation Savings Transfer,500,savings,transfer,Emergency Fund
+5/30/2024,Restaurant Dinner,-67.45,food,expense,Thai Restaurant

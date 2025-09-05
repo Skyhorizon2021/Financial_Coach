@@ -1,0 +1,22 @@
+{
+    "name": "Python: Flask (0.11.x or later)",
+    "type": "python",
+    "request": "launch",
+    "stopOnEntry": false,
+    "pythonPath": "${config:python.pythonPath}",
+    //"program": "${workspaceFolder}/env/Scripts/flask.exe",
+    "module": "flask",
+    "cwd": "${workspaceFolder}",
+    "env": {
+        "FLASK_APP": "${workspaceFolder}/main.py"
+    },
+    "args": [
+        "run",
+        "--no-debugger",
+        "--no-reload"
+    ],
+    "envFile": "${workspaceFolder}/.env",
+    "debugOptions": [
+        "RedirectOutput"
+    ]
+}
