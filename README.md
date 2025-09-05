@@ -5,7 +5,7 @@
 
 # Smart Financial Coach - Technical Design Document
 
-## 1. Project Overview
+## 1. Project Overview 
 
 ### Problem Statement
 Personal finance management suffers from poor visibility and lack of personalized guidance. Users struggle with manual expense tracking and generic advice, leading to unaware spending patterns and financial anxiety.
